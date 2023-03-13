@@ -5,6 +5,7 @@ function App() {
   return (
   <div>
      <h1 className='text-xl text-center text-red-700'>Hello world</h1>
+     
     </div>
   )
 }
