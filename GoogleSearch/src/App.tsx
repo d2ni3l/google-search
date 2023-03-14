@@ -1,11 +1,12 @@
 import react from 'react'
+import Main from './pages/Main';
 
 function App() {
 
   return (
   <div>
-     <h1 className='text-xl text-center text-red-700'>Hello world</h1>
-     
+     <Main/>
+     <div className="pt-32 bg-indigo-500"></div>
     </div>
   )
 }
